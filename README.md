@@ -71,18 +71,6 @@
 </div>
 
 
-
-<h2 align="left">🧠 AI & Machine Learning</h2>
-
-<p align="left">
-• Machine Learning (Random Forest, Model Evaluation)<br>
-• Image Processing & Feature Extraction (LPQ)<br>
-• Data Structures & Algorithms<br>
-• Jupyter Notebook
-</p>
-
-
-
 <h2 align="left">🌐 Web & Backend Development</h2>
 
 <div style="display: flex; flex-direction: row;">
@@ -151,10 +139,7 @@
 
 <p align="left">
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-• Database Design & Optimization
 </p>
-
-
 
 <h2 align="left">⚙️ Tools & Platforms</h2>
 
@@ -208,6 +193,15 @@
 
 
 </div>
+
+<h2 align="left">🧠 AI & Machine Learning</h2>
+
+<p align="left">
+• Machine Learning (Random Forest, Model Evaluation)<br>
+• Image Processing & Feature Extraction (LPQ)<br>
+• Data Structures & Algorithms<br>
+• Jupyter Notebook
+</p>
 
 
 
