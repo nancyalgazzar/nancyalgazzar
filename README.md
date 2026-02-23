@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FF41&background=00000000&width=435&lines=Hi+👋+I'm+Nancy" alt="Hi I'm Nancy" />
 </p> -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=435&lines=if+it+works,+don't+touch+it" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=435&lines=If+it+works,+Don't+touch+it" alt="Typing SVG" />
 </p>
 <p align="left">I am a Computer Engineering graduate with strong interest in software engineering and AI systems.</p>
 
