@@ -26,7 +26,7 @@
 
 <h2 align="left">💻 Programming Languages</h2>
 
-<div style="display: flex; flex-direction: row;" >
+
 
 <a href="https://learn.microsoft.com/en-us/cpp/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -68,7 +68,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
 </a>
 
-</div>
+
 
 
 <h2 align="left">🌐 Web & Backend Development</h2>
